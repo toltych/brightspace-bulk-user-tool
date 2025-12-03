@@ -29,7 +29,6 @@ The code has been sanitized for public sharing:
 *   Update XPath selectors in `Config.XPATHS`.
 *   Verify CSV column names match your platform's requirements.
 *   **Test thoroughly** in a non-production environment first.
-*   Review your institution's policies on automation.
 
 ## 🧑‍💻 Intended Audience
 *   Potential employers evaluating automation and development skills.
@@ -277,11 +276,6 @@ Both scripts generate detailed logs:
 - [ ] Replace XPath with more robust element identification (CSS selectors, IDs)
 - [ ] Add unit tests for data processing logic
 - [ ] Build web interface for non-technical users
-- [ ] Implement async processing for large file batches
-- [ ] Add database for tracking upload history
-- [ ] Create generic framework adaptable to other LMS platforms
-- [ ] Add Docker containerization for easy deployment
-- [ ] Implement headless browser mode for server deployment
 
 ## 🤝 Contributing
 
