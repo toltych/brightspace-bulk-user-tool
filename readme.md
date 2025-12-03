@@ -43,7 +43,10 @@ By using this code, you acknowledge:
 *   The author provides no warranty or support.
 *   See the LICENSE file for full terms.
 
---------------------------------------------------------
+---
+---
+---
+---
 
 # Brightspace Bulk User Management Automation
 
