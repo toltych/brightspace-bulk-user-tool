@@ -1,6 +1,53 @@
-# Bulk User Management Automation
 
-**Production automation tool for processing and uploading bulk enrollment data through web interfaces.**
+# ⚠️ Portfolio Project Notice
+
+This repository contains sanitized code from a production automation project, presented as a portfolio piece.
+
+## 🚀 Original Context
+This tool resolved a critical incident in December 2024 by automating the correction of 1000+ course enrollments, reducing a 40+ hour manual process to ~2 hours.
+
+## 🧼 Current State (Generalized)
+The code has been sanitized for public sharing:
+*   Institution-specific details (URLs, names) are removed.
+*   XPath selectors are examples and must be updated.
+*   Configuration values are placeholders.
+
+## 🛑 Important: This Will NOT Work Out-of-the-Box
+
+**DO NOT** expect to clone and run this code without significant modification.
+
+### ✅ This repository serves as:
+*   A demonstration of production automation capabilities.
+*   A code sample of a problem-solving approach and technical skills.
+*   A reference implementation to be adapted.
+
+### ❌ This is NOT:
+*   A ready-to-use tool for your Brightspace instance.
+
+## 🛠️ What You'll Need to Modify
+*   Update URLs in `selenium_uploader.py`.
+*   Update XPath selectors in `Config.XPATHS`.
+*   Verify CSV column names match your platform's requirements.
+*   **Test thoroughly** in a non-production environment first.
+*   Review your institution's policies on automation.
+
+## 🧑‍💻 Intended Audience
+*   Potential employers evaluating automation and development skills.
+*   Systems administrators seeking reference implementations.
+*   Developers interested in Selenium-based workflow automation.
+
+## 📝 Disclaimer
+By using this code, you acknowledge:
+*   It requires significant customization.
+*   You are responsible for testing and production use.
+*   The author provides no warranty or support.
+*   See the LICENSE file for full terms.
+
+--------------------------------------------------------
+
+# Brightspace Bulk User Management Automation
+
+**Production automation tool for processing and uploading bulk enrollment data.**
 
 ## 🎯 Problem
 
@@ -258,7 +305,7 @@ This tool automates bulk operations that can affect many users simultaneously. A
 
 **Use at your own risk. The author assumes no liability for data loss or system issues.**
 
-## 👤 Author
+## 👤 Author -- (Toltych) - [Github](https://github.com/toltych)
 
 Built by a systems administrator with 5 years of experience in IT operations, transitioning to DevOps/automation engineering.
 
