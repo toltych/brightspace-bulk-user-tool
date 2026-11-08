@@ -4,8 +4,7 @@
 This repository contains sanitized code from a production automation project, presented as a portfolio piece.
 
 ## 🚀 Original Context
-This tool resolved a critical incident in December 2024 by automating the correction of 1000+ course enrollments, reducing a 40+ hour manual process to ~2 hours.
-
+This tool resolved a critical incident in December 2024 by automating the correction of 1000+ course enrollments
 ## 🧼 Current State (Generalized)
 The code has been sanitized for public sharing:
 *   Institution-specific details (URLs, names) are removed.
